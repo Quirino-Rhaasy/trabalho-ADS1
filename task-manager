@@ -1,0 +1,15 @@
+task-manager
+│
+├── src
+│   └── app.py
+│
+├── tests
+│   └── test_tasks.py
+│
+├── .github
+│   └── workflows
+│       └── python.yml
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
